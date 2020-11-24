@@ -1,8 +1,3 @@
-/*
- Author:	Internshala
- Module:	Diving into C Programming
- Topic:		Functions
-*/
 
 #include <stdio.h>
 
